@@ -1,0 +1,6 @@
+# install:
+call ./install.sh <source> <destination> <run interval>
+
+# start & stop:
+launchctl start BoxSync
+launchctl stop BoxSync
